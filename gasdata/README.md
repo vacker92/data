@@ -7,3 +7,9 @@
 ## 데이터 취합후, 새로운 데이터 생성  
 >시간대별 -> gas_time.csv  
 >공급사별 -> gas_com.csv
+
+[날씨](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36)
+
+2013년부터 2018년까지의 시간별 기온을 볼수있습니다
+
+## 데이터 취합후 새로운 칼럼(온도) 추가
